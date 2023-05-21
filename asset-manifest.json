@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Hello-World/static/css/main.476deae4.css",
+    "main.js": "/React-Hello-World/static/js/main.2e318797.js",
+    "index.html": "/React-Hello-World/index.html",
+    "main.476deae4.css.map": "/React-Hello-World/static/css/main.476deae4.css.map",
+    "main.2e318797.js.map": "/React-Hello-World/static/js/main.2e318797.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.476deae4.css",
+    "static/js/main.2e318797.js"
+  ]
+}
